@@ -6,5 +6,21 @@
   "osvVulnerabilityAlerts": true,
   "semanticCommits": "enabled",
   "semanticCommitType": "deps",
-  "semanticCommitScope": "{{manager}}"
+  "semanticCommitScope": "{{manager}}",
+  "platformAutomerge": true,
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch"],
+      "minimumReleaseAge": "7 days",
+      "automerge": true
+    },
+    {
+      "matchUpdateTypes": ["digest"],
+      "automerge": true
+    },
+    {
+      "matchUpdateTypes": ["major"],
+      "minimumReleaseAge": "7 days"
+    }
+  ]
 }

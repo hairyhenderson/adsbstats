@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/hairyhenderson/adsbstats/compare/v0.1.0...v0.1.1) (2026-10-17)
+
+
+### Dependencies
+
+* **go:** bump go directive to 1.27.2 ([#22](https://github.com/hairyhenderson/adsbstats/issues/22)) ([1bce32a](https://github.com/hairyhenderson/adsbstats/commit/1bce32aa1483f504c5fc02de2a79731ad99296de))
+
 ## 0.1.0 (2026-10-17)
 
 

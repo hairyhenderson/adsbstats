@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/hairyhenderson/adsbstats/compare/v0.1.1...v0.1.2) (2026-10-21)
+
+
+### Dependencies
+
+* update Go to 1.27.3 ([#26](https://github.com/hairyhenderson/adsbstats/issues/26)) ([77f0298](https://github.com/hairyhenderson/adsbstats/commit/77f029802b42c356990c6f204bf1afcd6e31539d))
+
 ## [0.1.1](https://github.com/hairyhenderson/adsbstats/compare/v0.1.0...v0.1.1) (2026-10-17)
 
 

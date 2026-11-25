@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/hairyhenderson/adsbstats/compare/v0.1.2...v0.1.3) (2026-11-24)
+
+
+### Dependencies
+
+* build with Go 1.27.4 via a toolchain directive ([#39](https://github.com/hairyhenderson/adsbstats/issues/39)) ([563b261](https://github.com/hairyhenderson/adsbstats/commit/563b2612451e0ceb2bf983780b9752c7104d8907))
+
 ## [0.1.2](https://github.com/hairyhenderson/adsbstats/compare/v0.1.1...v0.1.2) (2026-10-21)
 
 
